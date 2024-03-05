@@ -17,7 +17,7 @@ let Exlist = [
   {type: DurationEx, name: "Running"},
   {type: RepetitionEx, name: "Push"},
   {type: DurationEx, name: "Cycle"},
-  {type: RepetitionEx, name: "Maps"}
+  {type: DurationEx, name: "Maps"}
 ]
 
 
